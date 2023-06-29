@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sjdemartini/mui-tiptap" target="_blank">
+  <a href="https://github.com/sjdemartini/mui-tiptap" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/sjdemartini/mui-tiptap/assets/1647130/e1f01441-c74a-410c-b25d-5a58615d3e6a" alt="mui-tiptap logo" width="350" />
   </a>
 </p>
